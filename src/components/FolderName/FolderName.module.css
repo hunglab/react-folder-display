@@ -1,0 +1,13 @@
+.container {
+	display: inline-flex;
+	align-items: center;
+	cursor: pointer;
+	padding: 0rem;
+	margin: 0rem;
+	height: 2rem;
+}
+
+.text {
+	font-weight: 600;
+	padding-left: 5px;
+}
